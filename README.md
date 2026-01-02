@@ -31,6 +31,14 @@ Tudo isso aplicando **conceitos fundamentais de POO em Java**.
 
 ✔️ Sobrescrita do método `toString()`
 
+✔️ Construtores
+
+✔️ Palavra this
+
+✔️ Sobrecarga 
+
+✔️ Encapsulamento
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
